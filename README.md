@@ -2,7 +2,7 @@
 
 An Over the top Streaming service to enjoy the entertainment over the internet.
 
-AS part of unit 2 construct week we cloned the frontend of zee5.com to the best of our ability in a team of 4 within the span of 5 days.
+AS part of unit 3 construct week we cloned the frontend of zee5.com to the best of our ability in a team of 4 within the span of 5 days.
 
 [Deploy link](https://zee5clone.netlify.app/)
 
